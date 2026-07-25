@@ -1,0 +1,17 @@
+<section id="estudi">
+  <div class="counts">
+    <div class="due"><b id="c-due">–</b>à revoir</div>
+    <div><b id="c-new">–</b>nouvelles</div>
+    <div><b id="c-tot">–</b>au total</div>
+  </div>
+  <div id="stats" class="stats"></div>
+  <div class="study-options">
+    <label for="study-direction">Langue de départ</label>
+    <select id="study-direction" onchange="setStudyDirection(this.value)">
+      <option value="fr-oc">Français → gascon</option>
+      <option value="oc-fr">Gascon → français</option>
+      <option value="mix">Aléatoire à chaque carte</option>
+    </select>
+  </div>
+  <div id="study-area"></div>
+</section>

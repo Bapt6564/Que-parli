@@ -1,0 +1,141 @@
+:root{
+  --peira:#D5D8CF; --paper:#F0F1EA; --ombra:#242B26; --muda:#6F7972;
+  --sang:#A32E28; --aur:#B98B2E; --linha:#B9BEB3;
+  --disp:"Fraunces",Georgia,serif;
+  --body:"Karla",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"Space Mono",ui-monospace,Menlo,monospace;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{background:var(--peira);color:var(--ombra);font-family:var(--body);
+  font-size:16px;line-height:1.5;-webkit-font-smoothing:antialiased}
+.wrap{max-width:560px;margin:0 auto;padding:0 18px 90px}
+
+header{padding:24px 0 16px;border-bottom:1px solid var(--linha)}
+.title{display:flex;align-items:baseline;gap:.4em}
+.que{font-family:var(--mono);font-weight:700;font-size:.86rem;color:var(--sang);
+  letter-spacing:.08em;border-bottom:2px solid var(--sang);line-height:1.1}
+h1{font-family:var(--disp);font-weight:900;font-size:2.1rem;margin:0;letter-spacing:-.02em}
+.tagline{font-family:var(--mono);font-size:.66rem;letter-spacing:.12em;
+  text-transform:uppercase;color:var(--muda);margin-top:8px}
+
+nav{display:grid;grid-template-columns:repeat(5,1fr);margin:16px 0 22px;
+  border:1px solid var(--linha);border-radius:2px;overflow:hidden}
+nav button{padding:11px 2px;background:transparent;border:0;cursor:pointer;
+  font-family:var(--mono);font-size:.6rem;letter-spacing:.02em;text-transform:uppercase;
+  color:var(--muda);border-right:1px solid var(--linha)}
+nav button:last-child{border-right:0}
+nav button[aria-selected="true"]{background:var(--ombra);color:var(--paper)}
+nav button:focus-visible{outline:2px solid var(--sang);outline-offset:-2px}
+
+.counts{display:flex;gap:22px;font-family:var(--mono);font-size:.7rem;color:var(--muda);margin-bottom:18px}
+.counts b{display:block;font-size:1.25rem;color:var(--ombra);font-weight:700}
+.counts .due b{color:var(--sang)}
+
+.card{background:var(--paper);border:1px solid var(--linha);border-radius:3px;
+  padding:32px 22px;min-height:200px;display:flex;flex-direction:column;
+  justify-content:center;align-items:center;text-align:center}
+.prompt-label{font-family:var(--mono);font-size:.64rem;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--muda);margin-bottom:14px}
+.prompt{font-family:var(--disp);font-size:1.7rem;font-weight:600;line-height:1.25;margin:0}
+.answer{margin-top:20px;padding-top:18px;border-top:1px solid var(--linha);width:100%}
+.answer-oc{font-family:var(--disp);font-size:1.7rem;font-weight:900;line-height:1.25;
+  display:inline-flex;align-items:baseline;gap:.35em;flex-wrap:wrap;justify-content:center}
+.reveal{animation:rise .26s ease-out both}
+@keyframes rise{from{opacity:0;transform:translateY(7px)}to{opacity:1;transform:none}}
+.note{font-size:.85rem;color:var(--muda);margin-top:12px;font-style:italic}
+.chip{display:inline-block;font-family:var(--mono);font-size:.6rem;letter-spacing:.08em;
+  text-transform:uppercase;color:var(--aur);border:1px solid var(--aur);
+  padding:2px 7px;border-radius:2px;margin-top:14px}
+.chip.ok{color:var(--muda);border-color:var(--linha)}
+
+.actions{display:flex;gap:8px;margin-top:14px}
+button.act{flex:1;padding:14px 4px;border:1px solid var(--ombra);background:var(--paper);
+  color:var(--ombra);border-radius:2px;cursor:pointer;font-family:var(--body);
+  font-weight:700;font-size:.88rem}
+button.act.primary{background:var(--ombra);color:var(--paper)}
+button.act.again{border-color:var(--sang);color:var(--sang)}
+button.act small{display:block;font-family:var(--mono);font-weight:400;font-size:.58rem;
+  color:var(--muda);margin-top:3px}
+button.act.primary small{color:#A9B3AC}
+button:focus-visible{outline:2px solid var(--sang);outline-offset:2px}
+
+.linkrow{display:flex;justify-content:space-between;gap:10px;margin-top:12px;flex-wrap:wrap}
+.linkbtn{background:none;border:0;padding:6px 0;cursor:pointer;color:var(--muda);
+  font-family:var(--mono);font-size:.66rem;letter-spacing:.06em;text-transform:uppercase;
+  border-bottom:1px solid transparent}
+.linkbtn:hover{color:var(--ombra);border-bottom-color:var(--ombra)}
+
+label{display:block;font-family:var(--mono);font-size:.64rem;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--muda);margin:14px 0 5px}
+input[type=text],textarea{width:100%;padding:10px 11px;border:1px solid var(--linha);
+  background:var(--paper);color:var(--ombra);font-family:var(--body);font-size:1rem;border-radius:2px}
+textarea{min-height:100px;font-family:var(--mono);font-size:.8rem;line-height:1.6;resize:vertical}
+input:focus,textarea:focus{outline:2px solid var(--sang);outline-offset:-1px}
+.row{display:flex;gap:10px}
+.row>div{flex:1}
+.editing{border:1px solid var(--sang);border-left-width:3px;padding:0 14px 14px;
+  border-radius:2px;background:var(--paper)}
+.editing-flag{font-family:var(--mono);font-size:.64rem;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--sang);padding-top:12px}
+
+.item{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;
+  padding:12px 0;border-bottom:1px solid var(--linha)}
+.item-oc{font-family:var(--disp);font-weight:600;font-size:1.05rem}
+.item-fr{font-size:.86rem;color:var(--muda)}
+.item-meta{font-family:var(--mono);font-size:.6rem;color:var(--muda);
+  white-space:nowrap;text-align:right}
+.flag{color:var(--aur)}
+.iconbtn{background:none;border:0;color:var(--muda);cursor:pointer;font-size:.95rem;
+  line-height:1;padding:3px 4px}
+.iconbtn:hover{color:var(--sang)}
+
+h2{font-family:var(--disp);font-size:1.35rem;margin:26px 0 4px;font-weight:900}
+.sub{font-size:.85rem;color:var(--muda);margin:0 0 8px}
+.rule{border-top:1px solid var(--linha);margin:28px 0 0;padding-top:20px}
+.rule h3{font-family:var(--disp);font-size:1.16rem;font-weight:900;margin:0 0 6px}
+.rule p{margin:0 0 8px;font-size:.93rem}
+.num{font-family:var(--mono);font-size:.6rem;color:var(--muda);
+  letter-spacing:.14em;display:block;margin-bottom:3px}
+.para{font-family:var(--mono);font-size:.79rem;line-height:1.8;background:var(--paper);
+  border:1px solid var(--linha);border-radius:2px;padding:12px 14px;margin:10px 0;
+  overflow-x:auto;white-space:pre}
+.para b{color:var(--sang);font-weight:700}
+.para i{color:var(--muda);font-style:normal}
+.warn{background:var(--paper);border:1px solid var(--aur);border-left-width:3px;
+  padding:12px 14px;font-size:.85rem;border-radius:2px;margin:18px 0}
+.trait{border-left:2px solid var(--sang);padding:2px 0 2px 14px;margin:20px 0}
+.trait h3{font-family:var(--disp);font-size:1.08rem;margin:0 0 4px}
+.trait p{margin:0;font-size:.9rem}
+.ex{font-family:var(--mono);font-size:.78rem;color:var(--muda);margin-top:6px;display:block}
+.hidden{display:none}
+.empty{text-align:center;padding:42px 12px;color:var(--muda)}
+.empty p{margin:0 0 6px}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+select{width:100%;padding:10px 11px;border:1px solid var(--linha);background:var(--paper);color:var(--ombra);font-family:var(--body);font-size:.95rem;border-radius:2px}
+.study-options{margin:0 0 14px}.study-options label{margin-top:0}
+.lex-entry{background:var(--paper);border:1px solid var(--linha);border-radius:2px;padding:14px;margin:10px 0}
+.phonetic{font-family:var(--mono);font-size:.72rem;margin-top:7px;color:var(--ombra)}
+.lex-source{font-family:var(--mono);font-size:.58rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muda);margin-top:8px}
+@media(max-width:430px){nav button{font-size:.52rem}.actions{flex-wrap:wrap}.actions .act{min-width:42%}}
+
+
+/* Statistiques volontairement sobres : trois nombres, pas de tableau de bord lourd. */
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:0 0 18px}
+.stats div{background:var(--paper);border:1px solid var(--linha);padding:9px 7px;text-align:center;font-size:.72rem;color:var(--muda)}
+.stats b{display:block;font-family:var(--mono);font-size:1rem;color:var(--ombra)}
+.provenance{margin-top:10px;font-family:var(--mono);font-size:.62rem;letter-spacing:.04em;color:var(--muda)}
+@media(max-width:420px){.stats{grid-template-columns:1fr}.stats div{display:flex;justify-content:space-between}.stats b{display:inline}}
+
+/* Plusieurs formes occitanes peuvent partager une même carte. */
+.translation-row{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr) auto;gap:8px;align-items:end;margin-bottom:8px}
+.translation-row label{margin-top:0}
+.translation-row .iconbtn{margin-bottom:8px}
+.add-translation{margin:2px 0 8px}
+.answer-variants{width:100%;display:grid;gap:10px}
+.answer-variant{padding:9px 0;border-bottom:1px solid var(--linha)}
+.answer-variant:last-child{border-bottom:0}
+.variant-dialect{font-family:var(--mono);font-size:.62rem;color:var(--muda);margin-top:3px}
+.item-variant{font-size:.86rem;color:var(--muda);margin-top:2px}
+@media(max-width:460px){.translation-row{grid-template-columns:1fr auto}.translation-row .dialect-wrap{grid-column:1/2}}

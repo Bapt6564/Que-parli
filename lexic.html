@@ -1,0 +1,12 @@
+<section id="lexic" class="hidden">
+  <h2>Lexique et expressions</h2>
+  <p class="sub">Recherche rapide dans les expressions gasconnes et le vocabulaire culturel régional. Les sources sont indiquées sur chaque entrée.</p>
+  <label for="lex-filter">Rechercher</label>
+  <input type="text" id="lex-filter" placeholder="faim, adishatz, garbure…" oninput="renderLexicon()">
+  <div class="row">
+    <div><label for="lex-kind">Type</label><select id="lex-kind" onchange="renderLexicon()"><option value="">Tout</option><option value="expression">Expressions</option><option value="culture">Culture régionale</option></select></div>
+    <div><label for="lex-source">Source</label><select id="lex-source" onchange="renderLexicon()"><option value="">Toutes</option></select></div>
+  </div>
+  <div id="lex-count" class="sub" style="margin-top:12px"></div>
+  <div id="lex-list"></div>
+</section>

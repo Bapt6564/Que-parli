@@ -1,0 +1,46 @@
+<section id="cartas" class="hidden">
+  <div id="form-shell">
+    <h2 id="form-title">Ajouter une carte</h2>
+    <p class="sub" id="form-sub">Une carte correspond à un sens français. Elle peut contenir plusieurs traductions occitanes, chacune avec son dialecte facultatif.</p>
+    <div id="edit-flag" class="editing-flag hidden"></div>
+
+    <label for="f-fr">Français</label>
+    <input type="text" id="f-fr" placeholder="femme">
+
+    <label>Traductions occitanes</label>
+    <div id="translation-fields"></div>
+    <button class="linkbtn add-translation" type="button" onclick="addTranslationField()">+ Ajouter une traduction</button>
+
+    <label for="f-t">Étiquette</label>
+    <input type="text" id="f-t" placeholder="vocabulaire">
+    <label for="f-note">Note</label>
+    <input type="text" id="f-note" placeholder="remarque facultative">
+    <div class="actions">
+      <button class="act primary" id="btn-save" onclick="saveCard()">Ajouter la carte</button>
+      <button class="act hidden" id="btn-cancel" onclick="cancelEdit()">Annuler</button>
+    </div>
+    <div id="add-msg" class="sub" style="margin-top:10px"></div>
+  </div>
+
+  <h2>Coller une liste</h2>
+  <p class="sub">Une paire par ligne : occitan = français. Le dialecte pourra être ajouté ensuite en corrigeant la carte.</p>
+  <textarea id="bulk" placeholder="hemna = femme&#10;castèth = château&#10;que'm brembi = je me souviens"></textarea>
+  <div class="actions"><button class="act" onclick="addBulk()">Importer</button></div>
+  <div id="bulk-msg" class="sub" style="margin-top:10px"></div>
+
+  <h2>Le paquet</h2>
+  <p class="sub" id="deck-sub"></p>
+  <label for="filter">Filtrer</label>
+  <input type="text" id="filter" placeholder="un mot, une étiquette ou un dialecte" oninput="renderDeck()">
+  <div class="linkrow">
+    <button class="linkbtn" onclick="mergeSeed()">Compléter avec l’amorce</button>
+    <button class="linkbtn" onclick="exportPendingCards()">Exporter les changements</button>
+    <button class="linkbtn" onclick="exportGitHubCards()">Exporter cards.json</button>
+    <button class="linkbtn" onclick="chooseImport()">Importer / fusionner</button>
+    <button class="linkbtn" onclick="exportProgress()">Sauvegarder l’avancement</button>
+    <button class="linkbtn" onclick="wipe()">Tout effacer</button>
+  </div>
+  <input id="import-file" class="hidden" type="file" accept="application/json,.json" onchange="importCardsFile(event)">
+  <p class="sub" id="sync-sub"></p>
+  <div id="deck-list"></div>
+</section>
