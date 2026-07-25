@@ -1,0 +1,2432 @@
+[
+  {
+    "fr": "salut (à quelqu'un qu'on tutoie)",
+    "translations": [
+      {
+        "oc": "adiu"
+      }
+    ],
+    "tag": "basas"
+  },
+  {
+    "fr": "bonjour, au revoir (vouvoiement ou à plusieurs)",
+    "translations": [
+      {
+        "oc": "adishatz"
+      }
+    ],
+    "tag": "basas"
+  },
+  {
+    "fr": "comment ça va ?",
+    "translations": [
+      {
+        "oc": "quin va ?"
+      }
+    ],
+    "tag": "basas",
+    "note": "question ouverte : pas d'énonciatif"
+  },
+  {
+    "fr": "ça va bien",
+    "translations": [
+      {
+        "oc": "que va plan"
+      }
+    ],
+    "tag": "basas"
+  },
+  {
+    "fr": "et toi ?",
+    "translations": [
+      {
+        "oc": "e tu ?"
+      }
+    ],
+    "tag": "basas"
+  },
+  {
+    "fr": "merci",
+    "translations": [
+      {
+        "oc": "mercés"
+      }
+    ],
+    "tag": "basas"
+  },
+  {
+    "fr": "de rien",
+    "translations": [
+      {
+        "oc": "de ren"
+      }
+    ],
+    "tag": "basas"
+  },
+  {
+    "fr": "s'il vous plaît",
+    "translations": [
+      {
+        "oc": "si vos platz"
+      }
+    ],
+    "tag": "basas"
+  },
+  {
+    "fr": "à demain",
+    "translations": [
+      {
+        "oc": "a doman"
+      }
+    ],
+    "tag": "basas"
+  },
+  {
+    "fr": "à bientôt",
+    "translations": [
+      {
+        "oc": "a lèu"
+      }
+    ],
+    "tag": "basas"
+  },
+  {
+    "fr": "bonne nuit",
+    "translations": [
+      {
+        "oc": "bona nueit"
+      }
+    ],
+    "tag": "basas"
+  },
+  {
+    "fr": "bienvenue",
+    "translations": [
+      {
+        "oc": "planvengut"
+      }
+    ],
+    "tag": "basas"
+  },
+  {
+    "fr": "comment t'appelles-tu ?",
+    "translations": [
+      {
+        "oc": "quin t'apèras ?"
+      }
+    ],
+    "tag": "basas"
+  },
+  {
+    "fr": "je m'appelle…",
+    "translations": [
+      {
+        "oc": "que m'apèri…"
+      }
+    ],
+    "tag": "basas"
+  },
+  {
+    "fr": "d'où es-tu ?",
+    "translations": [
+      {
+        "oc": "d'on ès ?"
+      }
+    ],
+    "tag": "basas"
+  },
+  {
+    "fr": "je suis de Tarbes",
+    "translations": [
+      {
+        "oc": "que soi de Tarba"
+      }
+    ],
+    "tag": "basas",
+    "note": "Tarba, nom gascon de Tarbes"
+  },
+  {
+    "fr": "oui",
+    "translations": [
+      {
+        "oc": "òc"
+      }
+    ],
+    "tag": "basas"
+  },
+  {
+    "fr": "non",
+    "translations": [
+      {
+        "oc": "non"
+      }
+    ],
+    "tag": "basas"
+  },
+  {
+    "fr": "je parle",
+    "translations": [
+      {
+        "oc": "que parli"
+      }
+    ],
+    "tag": "enonciatiu",
+    "note": "l'affirmation s'ouvre par « que »"
+  },
+  {
+    "fr": "je ne parle pas",
+    "translations": [
+      {
+        "oc": "ne parli pas"
+      }
+    ],
+    "tag": "enonciatiu",
+    "note": "à la négative, « que » tombe"
+  },
+  {
+    "fr": "parles-tu gascon ?",
+    "translations": [
+      {
+        "oc": "e parlas gascon ?"
+      }
+    ],
+    "tag": "enonciatiu",
+    "note": "question fermée : « e »"
+  },
+  {
+    "fr": "qu'est-ce qu'il fait chaud !",
+    "translations": [
+      {
+        "oc": "be hè calor !"
+      }
+    ],
+    "tag": "enonciatiu",
+    "note": "« be » pour l'exclamation"
+  },
+  {
+    "fr": "je sais qu'il arrive",
+    "translations": [
+      {
+        "oc": "que sèi qu'arriba"
+      }
+    ],
+    "tag": "enonciatiu",
+    "note": "pas d'énonciatif dans la subordonnée"
+  },
+  {
+    "fr": "« oui », dit-il",
+    "translations": [
+      {
+        "oc": "« òc », ce ditz"
+      }
+    ],
+    "tag": "enonciatiu",
+    "note": "« ce » pour l'incise de discours"
+  },
+  {
+    "fr": "je suis",
+    "translations": [
+      {
+        "oc": "que soi"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "estar"
+  },
+  {
+    "fr": "tu es",
+    "translations": [
+      {
+        "oc": "qu'ès"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "estar"
+  },
+  {
+    "fr": "il / elle est",
+    "translations": [
+      {
+        "oc": "qu'ei"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "estar"
+  },
+  {
+    "fr": "nous sommes",
+    "translations": [
+      {
+        "oc": "qu'èm"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "estar"
+  },
+  {
+    "fr": "vous êtes",
+    "translations": [
+      {
+        "oc": "qu'ètz"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "estar"
+  },
+  {
+    "fr": "ils / elles sont",
+    "translations": [
+      {
+        "oc": "que son"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "estar"
+  },
+  {
+    "fr": "j'ai",
+    "translations": [
+      {
+        "oc": "qu'èi"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "aver"
+  },
+  {
+    "fr": "tu as",
+    "translations": [
+      {
+        "oc": "qu'as"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "aver"
+  },
+  {
+    "fr": "il / elle a",
+    "translations": [
+      {
+        "oc": "qu'a"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "aver"
+  },
+  {
+    "fr": "nous avons",
+    "translations": [
+      {
+        "oc": "qu'avem"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "aver"
+  },
+  {
+    "fr": "vous avez",
+    "translations": [
+      {
+        "oc": "qu'avetz"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "aver"
+  },
+  {
+    "fr": "ils / elles ont",
+    "translations": [
+      {
+        "oc": "qu'an"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "aver"
+  },
+  {
+    "fr": "j'ai été",
+    "translations": [
+      {
+        "oc": "que soi estat"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "estar est son propre auxiliaire"
+  },
+  {
+    "fr": "j'ai mangé",
+    "translations": [
+      {
+        "oc": "qu'èi minjat"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "aver pour les verbes actifs"
+  },
+  {
+    "fr": "je suis allé",
+    "translations": [
+      {
+        "oc": "que soi anat"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "estar pour les verbes de mouvement"
+  },
+  {
+    "fr": "parler",
+    "translations": [
+      {
+        "oc": "parlar"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "1er groupe : que parli"
+  },
+  {
+    "fr": "chanter",
+    "translations": [
+      {
+        "oc": "cantar"
+      }
+    ],
+    "tag": "vèrbes"
+  },
+  {
+    "fr": "manger",
+    "translations": [
+      {
+        "oc": "minjar"
+      }
+    ],
+    "tag": "vèrbes"
+  },
+  {
+    "fr": "boire",
+    "translations": [
+      {
+        "oc": "béver"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "que bevi"
+  },
+  {
+    "fr": "dire",
+    "translations": [
+      {
+        "oc": "díser"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "que disi, que ditz"
+  },
+  {
+    "fr": "voir",
+    "translations": [
+      {
+        "oc": "véder"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "que vei, participe vist"
+  },
+  {
+    "fr": "aller",
+    "translations": [
+      {
+        "oc": "anar"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "que vau, futur qu'irèi"
+  },
+  {
+    "fr": "faire",
+    "translations": [
+      {
+        "oc": "har"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "que hèi, participe hèit"
+  },
+  {
+    "fr": "pouvoir",
+    "translations": [
+      {
+        "oc": "poder"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "que pòdi, futur que poirèi"
+  },
+  {
+    "fr": "vouloir",
+    "translations": [
+      {
+        "oc": "voler"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "que vòli, que vòu"
+  },
+  {
+    "fr": "savoir",
+    "translations": [
+      {
+        "oc": "saber"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "que sèi, que sap"
+  },
+  {
+    "fr": "prendre",
+    "translations": [
+      {
+        "oc": "préner"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "que preni"
+  },
+  {
+    "fr": "venir",
+    "translations": [
+      {
+        "oc": "viéner"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "que vieni"
+  },
+  {
+    "fr": "dormir",
+    "translations": [
+      {
+        "oc": "dromir"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "que dròmi"
+  },
+  {
+    "fr": "lire",
+    "translations": [
+      {
+        "oc": "léger"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "que legi"
+  },
+  {
+    "fr": "écrire",
+    "translations": [
+      {
+        "oc": "escríver"
+      }
+    ],
+    "tag": "vèrbes"
+  },
+  {
+    "fr": "entendre",
+    "translations": [
+      {
+        "oc": "entèner"
+      }
+    ],
+    "tag": "vèrbes"
+  },
+  {
+    "fr": "acheter",
+    "translations": [
+      {
+        "oc": "crompar"
+      }
+    ],
+    "tag": "vèrbes"
+  },
+  {
+    "fr": "bâtir",
+    "translations": [
+      {
+        "oc": "bastir"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "inchoatif : que basteishi"
+  },
+  {
+    "fr": "rester, habiter",
+    "translations": [
+      {
+        "oc": "demorar"
+      }
+    ],
+    "tag": "vèrbes"
+  },
+  {
+    "fr": "revenir, rendre",
+    "translations": [
+      {
+        "oc": "tornar"
+      }
+    ],
+    "tag": "vèrbes"
+  },
+  {
+    "fr": "attraper, prendre",
+    "translations": [
+      {
+        "oc": "gahar"
+      }
+    ],
+    "tag": "vèrbes"
+  },
+  {
+    "fr": "il faut",
+    "translations": [
+      {
+        "oc": "cau"
+      }
+    ],
+    "tag": "vèrbes",
+    "note": "que cau anar, que'm cau partir"
+  },
+  {
+    "fr": "ça me fait plaisir",
+    "translations": [
+      {
+        "oc": "que'm hè gai"
+      }
+    ],
+    "tag": "pronoms",
+    "note": "le pronom se soude à l'énonciatif"
+  },
+  {
+    "fr": "je te vois",
+    "translations": [
+      {
+        "oc": "que't vei"
+      }
+    ],
+    "tag": "pronoms"
+  },
+  {
+    "fr": "je lui dis",
+    "translations": [
+      {
+        "oc": "que'u disi"
+      }
+    ],
+    "tag": "pronoms",
+    "note": "'u vaut lo ou li"
+  },
+  {
+    "fr": "il se lève",
+    "translations": [
+      {
+        "oc": "que's lhèva"
+      }
+    ],
+    "tag": "pronoms"
+  },
+  {
+    "fr": "il nous appelle",
+    "translations": [
+      {
+        "oc": "que'ns apèra"
+      }
+    ],
+    "tag": "pronoms"
+  },
+  {
+    "fr": "je vous écoute",
+    "translations": [
+      {
+        "oc": "que'vs escoti"
+      }
+    ],
+    "tag": "pronoms"
+  },
+  {
+    "fr": "je le sais",
+    "translations": [
+      {
+        "oc": "qu'ac sabi"
+      }
+    ],
+    "tag": "pronoms",
+    "note": "ac, pronom neutre"
+  },
+  {
+    "fr": "je ne le sais pas",
+    "translations": [
+      {
+        "oc": "n'ac sèi pas"
+      }
+    ],
+    "tag": "pronoms"
+  },
+  {
+    "fr": "parle-moi !",
+    "translations": [
+      {
+        "oc": "parla'm !"
+      }
+    ],
+    "tag": "pronoms",
+    "note": "à l'impératif, le pronom passe derrière"
+  },
+  {
+    "fr": "je me souviens",
+    "translations": [
+      {
+        "oc": "que'm brembi"
+      }
+    ],
+    "tag": "pronoms"
+  },
+  {
+    "fr": "il y a",
+    "translations": [
+      {
+        "oc": "qu'i a"
+      }
+    ],
+    "tag": "frasas"
+  },
+  {
+    "fr": "il n'y en a pas",
+    "translations": [
+      {
+        "oc": "n'i a pas"
+      }
+    ],
+    "tag": "frasas"
+  },
+  {
+    "fr": "j'ai faim",
+    "translations": [
+      {
+        "oc": "qu'èi hame"
+      }
+    ],
+    "tag": "frasas"
+  },
+  {
+    "fr": "j'ai soif",
+    "translations": [
+      {
+        "oc": "qu'èi set"
+      }
+    ],
+    "tag": "frasas"
+  },
+  {
+    "fr": "j'ai froid",
+    "translations": [
+      {
+        "oc": "qu'èi hred"
+      }
+    ],
+    "tag": "frasas"
+  },
+  {
+    "fr": "il fait chaud",
+    "translations": [
+      {
+        "oc": "que hè calor"
+      }
+    ],
+    "tag": "frasas"
+  },
+  {
+    "fr": "il fait beau",
+    "translations": [
+      {
+        "oc": "que hè bèth temps"
+      }
+    ],
+    "tag": "frasas"
+  },
+  {
+    "fr": "il pleut",
+    "translations": [
+      {
+        "oc": "que plau"
+      }
+    ],
+    "tag": "frasas",
+    "note": "verbe plàver"
+  },
+  {
+    "fr": "quel temps fait-il ?",
+    "translations": [
+      {
+        "oc": "quin temps hè ?"
+      }
+    ],
+    "tag": "frasas"
+  },
+  {
+    "fr": "quelle heure est-il ?",
+    "translations": [
+      {
+        "oc": "quina ora ei ?"
+      }
+    ],
+    "tag": "frasas"
+  },
+  {
+    "fr": "je comprends",
+    "translations": [
+      {
+        "oc": "que compreni"
+      }
+    ],
+    "tag": "frasas"
+  },
+  {
+    "fr": "je ne comprends pas",
+    "translations": [
+      {
+        "oc": "ne compreni pas"
+      }
+    ],
+    "tag": "frasas"
+  },
+  {
+    "fr": "combien ça coûte ?",
+    "translations": [
+      {
+        "oc": "quant còsta ?"
+      }
+    ],
+    "tag": "frasas"
+  },
+  {
+    "fr": "que fais-tu ?",
+    "translations": [
+      {
+        "oc": "qué hès ?"
+      }
+    ],
+    "tag": "frasas"
+  },
+  {
+    "fr": "où es-tu ?",
+    "translations": [
+      {
+        "oc": "on ès ?"
+      }
+    ],
+    "tag": "frasas"
+  },
+  {
+    "fr": "femme",
+    "translations": [
+      {
+        "oc": "hemna"
+      }
+    ],
+    "tag": "F>H"
+  },
+  {
+    "fr": "fils",
+    "translations": [
+      {
+        "oc": "hilh"
+      }
+    ],
+    "tag": "F>H"
+  },
+  {
+    "fr": "fille (par rapport aux parents)",
+    "translations": [
+      {
+        "oc": "hilha"
+      }
+    ],
+    "tag": "F>H"
+  },
+  {
+    "fr": "feu",
+    "translations": [
+      {
+        "oc": "huec"
+      }
+    ],
+    "tag": "F>H"
+  },
+  {
+    "fr": "fort",
+    "translations": [
+      {
+        "oc": "hòrt"
+      }
+    ],
+    "tag": "F>H"
+  },
+  {
+    "fr": "froid",
+    "translations": [
+      {
+        "oc": "hred"
+      }
+    ],
+    "tag": "F>H"
+  },
+  {
+    "fr": "fête",
+    "translations": [
+      {
+        "oc": "hèsta"
+      }
+    ],
+    "tag": "F>H"
+  },
+  {
+    "fr": "farine",
+    "translations": [
+      {
+        "oc": "haria"
+      }
+    ],
+    "tag": "F>H",
+    "note": "aussi le -n- tombé de farina"
+  },
+  {
+    "fr": "four",
+    "translations": [
+      {
+        "oc": "horn"
+      }
+    ],
+    "tag": "F>H"
+  },
+  {
+    "fr": "feuille",
+    "translations": [
+      {
+        "oc": "huelha"
+      }
+    ],
+    "tag": "F>H"
+  },
+  {
+    "fr": "fromage",
+    "translations": [
+      {
+        "oc": "hromatge"
+      }
+    ],
+    "tag": "F>H"
+  },
+  {
+    "fr": "faim",
+    "translations": [
+      {
+        "oc": "hame"
+      }
+    ],
+    "tag": "F>H"
+  },
+  {
+    "fr": "fumée",
+    "translations": [
+      {
+        "oc": "hum"
+      }
+    ],
+    "tag": "F>H",
+    "note": "a hum de calhau : à toute allure"
+  },
+  {
+    "fr": "beau",
+    "translations": [
+      {
+        "oc": "bèth"
+      }
+    ],
+    "tag": "-LL-",
+    "note": "féminin bèra"
+  },
+  {
+    "fr": "château",
+    "translations": [
+      {
+        "oc": "castèth"
+      }
+    ],
+    "tag": "-LL-"
+  },
+  {
+    "fr": "vallée",
+    "translations": [
+      {
+        "oc": "vath"
+      }
+    ],
+    "tag": "-LL-"
+  },
+  {
+    "fr": "oiseau",
+    "translations": [
+      {
+        "oc": "audèth"
+      }
+    ],
+    "tag": "-LL-"
+  },
+  {
+    "fr": "celui-là, ce…-là",
+    "translations": [
+      {
+        "oc": "aqueth"
+      }
+    ],
+    "tag": "-LL-",
+    "note": "féminin aquera"
+  },
+  {
+    "fr": "épi",
+    "translations": [
+      {
+        "oc": "cabelh"
+      }
+    ],
+    "tag": "-LL-"
+  },
+  {
+    "fr": "rien",
+    "translations": [
+      {
+        "oc": "arren"
+      }
+    ],
+    "tag": "arr-"
+  },
+  {
+    "fr": "ruisseau, rivière",
+    "translations": [
+      {
+        "oc": "arriu"
+      }
+    ],
+    "tag": "arr-"
+  },
+  {
+    "fr": "rat",
+    "translations": [
+      {
+        "oc": "arrat"
+      }
+    ],
+    "tag": "arr-"
+  },
+  {
+    "fr": "rire",
+    "translations": [
+      {
+        "oc": "arríder"
+      }
+    ],
+    "tag": "arr-"
+  },
+  {
+    "fr": "raisin",
+    "translations": [
+      {
+        "oc": "arrasim"
+      }
+    ],
+    "tag": "arr-"
+  },
+  {
+    "fr": "lune",
+    "translations": [
+      {
+        "oc": "lua"
+      }
+    ],
+    "tag": "-n- amudit"
+  },
+  {
+    "fr": "une",
+    "translations": [
+      {
+        "oc": "ua"
+      }
+    ],
+    "tag": "-n- amudit"
+  },
+  {
+    "fr": "poule",
+    "translations": [
+      {
+        "oc": "garia"
+      }
+    ],
+    "tag": "-n- amudit"
+  },
+  {
+    "fr": "chèvre",
+    "translations": [
+      {
+        "oc": "craba"
+      }
+    ],
+    "tag": "metatèsi",
+    "note": "capra, r déplacé"
+  },
+  {
+    "fr": "pauvre",
+    "translations": [
+      {
+        "oc": "praube"
+      }
+    ],
+    "tag": "metatèsi"
+  },
+  {
+    "fr": "après-midi, soirée",
+    "translations": [
+      {
+        "oc": "vrèspe"
+      }
+    ],
+    "tag": "metatèsi"
+  },
+  {
+    "fr": "maison",
+    "translations": [
+      {
+        "oc": "ostau"
+      }
+    ],
+    "tag": "ostau"
+  },
+  {
+    "fr": "porte",
+    "translations": [
+      {
+        "oc": "pòrta"
+      }
+    ],
+    "tag": "ostau"
+  },
+  {
+    "fr": "table",
+    "translations": [
+      {
+        "oc": "taula"
+      }
+    ],
+    "tag": "ostau"
+  },
+  {
+    "fr": "lit",
+    "translations": [
+      {
+        "oc": "lheit"
+      }
+    ],
+    "tag": "ostau"
+  },
+  {
+    "fr": "eau",
+    "translations": [
+      {
+        "oc": "aiga"
+      }
+    ],
+    "tag": "ostau"
+  },
+  {
+    "fr": "pain",
+    "translations": [
+      {
+        "oc": "pan"
+      }
+    ],
+    "tag": "ostau"
+  },
+  {
+    "fr": "vin",
+    "translations": [
+      {
+        "oc": "vin"
+      }
+    ],
+    "tag": "ostau",
+    "note": "se prononce [bin]"
+  },
+  {
+    "fr": "lait",
+    "translations": [
+      {
+        "oc": "lèit"
+      }
+    ],
+    "tag": "ostau"
+  },
+  {
+    "fr": "viande",
+    "translations": [
+      {
+        "oc": "carn"
+      }
+    ],
+    "tag": "ostau"
+  },
+  {
+    "fr": "poisson",
+    "translations": [
+      {
+        "oc": "peish"
+      }
+    ],
+    "tag": "ostau",
+    "note": "pluriel peishes"
+  },
+  {
+    "fr": "sel",
+    "translations": [
+      {
+        "oc": "sau"
+      }
+    ],
+    "tag": "ostau"
+  },
+  {
+    "fr": "soupe",
+    "translations": [
+      {
+        "oc": "sopa"
+      }
+    ],
+    "tag": "ostau"
+  },
+  {
+    "fr": "homme",
+    "translations": [
+      {
+        "oc": "òme"
+      }
+    ],
+    "tag": "gent"
+  },
+  {
+    "fr": "père",
+    "translations": [
+      {
+        "oc": "pair"
+      }
+    ],
+    "tag": "gent"
+  },
+  {
+    "fr": "mère",
+    "translations": [
+      {
+        "oc": "mair"
+      }
+    ],
+    "tag": "gent"
+  },
+  {
+    "fr": "frère",
+    "translations": [
+      {
+        "oc": "frair"
+      }
+    ],
+    "tag": "gent"
+  },
+  {
+    "fr": "sœur",
+    "translations": [
+      {
+        "oc": "sòr"
+      }
+    ],
+    "tag": "gent"
+  },
+  {
+    "fr": "enfant, petit garçon",
+    "translations": [
+      {
+        "oc": "mainat"
+      }
+    ],
+    "tag": "gent",
+    "note": "féminin mainada"
+  },
+  {
+    "fr": "garçon, jeune homme",
+    "translations": [
+      {
+        "oc": "gojat"
+      }
+    ],
+    "tag": "gent",
+    "note": "féminin gojata"
+  },
+  {
+    "fr": "ami",
+    "translations": [
+      {
+        "oc": "amic"
+      }
+    ],
+    "tag": "gent"
+  },
+  {
+    "fr": "voisin",
+    "translations": [
+      {
+        "oc": "vesin"
+      }
+    ],
+    "tag": "gent"
+  },
+  {
+    "fr": "tête",
+    "translations": [
+      {
+        "oc": "cap"
+      }
+    ],
+    "tag": "còs"
+  },
+  {
+    "fr": "œil",
+    "translations": [
+      {
+        "oc": "uelh"
+      }
+    ],
+    "tag": "còs"
+  },
+  {
+    "fr": "main",
+    "translations": [
+      {
+        "oc": "man"
+      }
+    ],
+    "tag": "còs"
+  },
+  {
+    "fr": "pied",
+    "translations": [
+      {
+        "oc": "pè"
+      }
+    ],
+    "tag": "còs"
+  },
+  {
+    "fr": "cœur",
+    "translations": [
+      {
+        "oc": "còr"
+      }
+    ],
+    "tag": "còs"
+  },
+  {
+    "fr": "bouche",
+    "translations": [
+      {
+        "oc": "boca"
+      }
+    ],
+    "tag": "còs"
+  },
+  {
+    "fr": "montagne",
+    "translations": [
+      {
+        "oc": "montanha"
+      }
+    ],
+    "tag": "natura"
+  },
+  {
+    "fr": "bois, forêt",
+    "translations": [
+      {
+        "oc": "bòsc"
+      }
+    ],
+    "tag": "natura"
+  },
+  {
+    "fr": "pré",
+    "translations": [
+      {
+        "oc": "prat"
+      }
+    ],
+    "tag": "natura"
+  },
+  {
+    "fr": "champ",
+    "translations": [
+      {
+        "oc": "camp"
+      }
+    ],
+    "tag": "natura"
+  },
+  {
+    "fr": "chemin",
+    "translations": [
+      {
+        "oc": "camin"
+      }
+    ],
+    "tag": "natura"
+  },
+  {
+    "fr": "rue",
+    "translations": [
+      {
+        "oc": "carrèra"
+      }
+    ],
+    "tag": "natura"
+  },
+  {
+    "fr": "pont",
+    "translations": [
+      {
+        "oc": "pont"
+      }
+    ],
+    "tag": "natura"
+  },
+  {
+    "fr": "caillou",
+    "translations": [
+      {
+        "oc": "calhau"
+      }
+    ],
+    "tag": "natura"
+  },
+  {
+    "fr": "pierre",
+    "translations": [
+      {
+        "oc": "pèira"
+      }
+    ],
+    "tag": "natura"
+  },
+  {
+    "fr": "terre",
+    "translations": [
+      {
+        "oc": "tèrra"
+      }
+    ],
+    "tag": "natura"
+  },
+  {
+    "fr": "ciel",
+    "translations": [
+      {
+        "oc": "cèu"
+      }
+    ],
+    "tag": "natura"
+  },
+  {
+    "fr": "soleil",
+    "translations": [
+      {
+        "oc": "sorelh"
+      }
+    ],
+    "tag": "natura"
+  },
+  {
+    "fr": "étoile",
+    "translations": [
+      {
+        "oc": "estela"
+      }
+    ],
+    "tag": "natura"
+  },
+  {
+    "fr": "neige",
+    "translations": [
+      {
+        "oc": "nèu"
+      }
+    ],
+    "tag": "natura"
+  },
+  {
+    "fr": "pluie",
+    "translations": [
+      {
+        "oc": "ploja"
+      }
+    ],
+    "tag": "natura"
+  },
+  {
+    "fr": "vent",
+    "translations": [
+      {
+        "oc": "vent"
+      }
+    ],
+    "tag": "natura"
+  },
+  {
+    "fr": "arbre",
+    "translations": [
+      {
+        "oc": "arbe"
+      }
+    ],
+    "tag": "natura"
+  },
+  {
+    "fr": "fleur",
+    "translations": [
+      {
+        "oc": "flor"
+      }
+    ],
+    "tag": "natura"
+  },
+  {
+    "fr": "chien",
+    "translations": [
+      {
+        "oc": "can"
+      }
+    ],
+    "tag": "bèstias"
+  },
+  {
+    "fr": "chat",
+    "translations": [
+      {
+        "oc": "gat"
+      }
+    ],
+    "tag": "bèstias"
+  },
+  {
+    "fr": "vache",
+    "translations": [
+      {
+        "oc": "vaca"
+      }
+    ],
+    "tag": "bèstias"
+  },
+  {
+    "fr": "brebis",
+    "translations": [
+      {
+        "oc": "aulha"
+      }
+    ],
+    "tag": "bèstias"
+  },
+  {
+    "fr": "cheval",
+    "translations": [
+      {
+        "oc": "shivau"
+      }
+    ],
+    "tag": "bèstias"
+  },
+  {
+    "fr": "loup",
+    "translations": [
+      {
+        "oc": "lop"
+      }
+    ],
+    "tag": "bèstias"
+  },
+  {
+    "fr": "ours",
+    "translations": [
+      {
+        "oc": "os"
+      }
+    ],
+    "tag": "bèstias"
+  },
+  {
+    "fr": "isard",
+    "translations": [
+      {
+        "oc": "isard"
+      }
+    ],
+    "tag": "bèstias"
+  },
+  {
+    "fr": "abeille",
+    "translations": [
+      {
+        "oc": "abelha"
+      }
+    ],
+    "tag": "bèstias"
+  },
+  {
+    "fr": "jour",
+    "translations": [
+      {
+        "oc": "dia"
+      }
+    ],
+    "tag": "temps"
+  },
+  {
+    "fr": "nuit",
+    "translations": [
+      {
+        "oc": "nueit"
+      }
+    ],
+    "tag": "temps"
+  },
+  {
+    "fr": "matin",
+    "translations": [
+      {
+        "oc": "maitin"
+      }
+    ],
+    "tag": "temps"
+  },
+  {
+    "fr": "soir",
+    "translations": [
+      {
+        "oc": "ser"
+      }
+    ],
+    "tag": "temps"
+  },
+  {
+    "fr": "aujourd'hui",
+    "translations": [
+      {
+        "oc": "uei"
+      }
+    ],
+    "tag": "temps"
+  },
+  {
+    "fr": "demain",
+    "translations": [
+      {
+        "oc": "doman"
+      }
+    ],
+    "tag": "temps"
+  },
+  {
+    "fr": "hier",
+    "translations": [
+      {
+        "oc": "ger"
+      }
+    ],
+    "tag": "temps"
+  },
+  {
+    "fr": "semaine",
+    "translations": [
+      {
+        "oc": "setmana"
+      }
+    ],
+    "tag": "temps"
+  },
+  {
+    "fr": "mois",
+    "translations": [
+      {
+        "oc": "mes"
+      }
+    ],
+    "tag": "temps"
+  },
+  {
+    "fr": "an",
+    "translations": [
+      {
+        "oc": "an"
+      }
+    ],
+    "tag": "temps"
+  },
+  {
+    "fr": "heure",
+    "translations": [
+      {
+        "oc": "ora"
+      }
+    ],
+    "tag": "temps"
+  },
+  {
+    "fr": "hiver",
+    "translations": [
+      {
+        "oc": "ivèrn"
+      }
+    ],
+    "tag": "temps"
+  },
+  {
+    "fr": "été",
+    "translations": [
+      {
+        "oc": "estiu"
+      }
+    ],
+    "tag": "temps"
+  },
+  {
+    "fr": "printemps",
+    "translations": [
+      {
+        "oc": "prima"
+      }
+    ],
+    "tag": "temps"
+  },
+  {
+    "fr": "grand",
+    "translations": [
+      {
+        "oc": "gran"
+      }
+    ],
+    "tag": "adjectius",
+    "note": "féminin grana"
+  },
+  {
+    "fr": "petit",
+    "translations": [
+      {
+        "oc": "petit"
+      }
+    ],
+    "tag": "adjectius",
+    "note": "féminin petita"
+  },
+  {
+    "fr": "joli",
+    "translations": [
+      {
+        "oc": "beròi"
+      }
+    ],
+    "tag": "adjectius",
+    "note": "féminin beròja"
+  },
+  {
+    "fr": "bon",
+    "translations": [
+      {
+        "oc": "bon"
+      }
+    ],
+    "tag": "adjectius",
+    "note": "féminin bona"
+  },
+  {
+    "fr": "mauvais, méchant",
+    "translations": [
+      {
+        "oc": "maishant"
+      }
+    ],
+    "tag": "adjectius"
+  },
+  {
+    "fr": "neuf, nouveau",
+    "translations": [
+      {
+        "oc": "nau"
+      }
+    ],
+    "tag": "adjectius",
+    "note": "le même mot que le nombre neuf"
+  },
+  {
+    "fr": "vieux",
+    "translations": [
+      {
+        "oc": "vielh"
+      }
+    ],
+    "tag": "adjectius"
+  },
+  {
+    "fr": "chaud",
+    "translations": [
+      {
+        "oc": "caud"
+      }
+    ],
+    "tag": "adjectius"
+  },
+  {
+    "fr": "long",
+    "translations": [
+      {
+        "oc": "long"
+      }
+    ],
+    "tag": "adjectius"
+  },
+  {
+    "fr": "plein",
+    "translations": [
+      {
+        "oc": "plen"
+      }
+    ],
+    "tag": "adjectius"
+  },
+  {
+    "fr": "content",
+    "translations": [
+      {
+        "oc": "content"
+      }
+    ],
+    "tag": "adjectius"
+  },
+  {
+    "fr": "un",
+    "translations": [
+      {
+        "oc": "un"
+      }
+    ],
+    "tag": "nombres",
+    "note": "féminin ua"
+  },
+  {
+    "fr": "deux",
+    "translations": [
+      {
+        "oc": "dus"
+      }
+    ],
+    "tag": "nombres",
+    "note": "féminin duas"
+  },
+  {
+    "fr": "trois",
+    "translations": [
+      {
+        "oc": "tres"
+      }
+    ],
+    "tag": "nombres"
+  },
+  {
+    "fr": "quatre",
+    "translations": [
+      {
+        "oc": "quate"
+      }
+    ],
+    "tag": "nombres"
+  },
+  {
+    "fr": "cinq",
+    "translations": [
+      {
+        "oc": "cinc"
+      }
+    ],
+    "tag": "nombres"
+  },
+  {
+    "fr": "six",
+    "translations": [
+      {
+        "oc": "sheis"
+      }
+    ],
+    "tag": "nombres"
+  },
+  {
+    "fr": "sept",
+    "translations": [
+      {
+        "oc": "sèt"
+      }
+    ],
+    "tag": "nombres"
+  },
+  {
+    "fr": "huit",
+    "translations": [
+      {
+        "oc": "ueit"
+      }
+    ],
+    "tag": "nombres"
+  },
+  {
+    "fr": "neuf",
+    "translations": [
+      {
+        "oc": "nau"
+      }
+    ],
+    "tag": "nombres"
+  },
+  {
+    "fr": "dix",
+    "translations": [
+      {
+        "oc": "dètz"
+      }
+    ],
+    "tag": "nombres"
+  },
+  {
+    "fr": "vingt",
+    "translations": [
+      {
+        "oc": "vint"
+      }
+    ],
+    "tag": "nombres"
+  },
+  {
+    "fr": "cent",
+    "translations": [
+      {
+        "oc": "cent"
+      }
+    ],
+    "tag": "nombres"
+  },
+  {
+    "fr": "avec",
+    "translations": [
+      {
+        "oc": "dab"
+      }
+    ],
+    "tag": "mots-otís",
+    "note": "marqueur gascon pur"
+  },
+  {
+    "fr": "pour, vers",
+    "translations": [
+      {
+        "oc": "entà"
+      }
+    ],
+    "tag": "mots-otís",
+    "note": "se réduit à tà dans la parole"
+  },
+  {
+    "fr": "dans",
+    "translations": [
+      {
+        "oc": "hens"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "sur",
+    "translations": [
+      {
+        "oc": "sus"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "sous",
+    "translations": [
+      {
+        "oc": "devath"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "jusqu'à",
+    "translations": [
+      {
+        "oc": "dinc a"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "beaucoup",
+    "translations": [
+      {
+        "oc": "hèra"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "peu",
+    "translations": [
+      {
+        "oc": "chic"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "parce que",
+    "translations": [
+      {
+        "oc": "pr'amor"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "aussi",
+    "translations": [
+      {
+        "oc": "tanben"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "non plus",
+    "translations": [
+      {
+        "oc": "tapauc"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "seulement",
+    "translations": [
+      {
+        "oc": "sonque"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "pourtant",
+    "translations": [
+      {
+        "oc": "totun"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "alors",
+    "translations": [
+      {
+        "oc": "alavetz"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "maintenant",
+    "translations": [
+      {
+        "oc": "adara"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "toujours",
+    "translations": [
+      {
+        "oc": "tostemps"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "jamais",
+    "translations": [
+      {
+        "oc": "jamès"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "souvent",
+    "translations": [
+      {
+        "oc": "sovent"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "parfois",
+    "translations": [
+      {
+        "oc": "quauque còp"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "encore",
+    "translations": [
+      {
+        "oc": "enqüèra"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "déjà",
+    "translations": [
+      {
+        "oc": "ja"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "tôt, vite",
+    "translations": [
+      {
+        "oc": "lèu"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "bien",
+    "translations": [
+      {
+        "oc": "plan"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "mal",
+    "translations": [
+      {
+        "oc": "mau"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "ainsi",
+    "translations": [
+      {
+        "oc": "atau"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "ici",
+    "translations": [
+      {
+        "oc": "ací"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "là",
+    "translations": [
+      {
+        "oc": "aquiu"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "où",
+    "translations": [
+      {
+        "oc": "on"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "quand",
+    "translations": [
+      {
+        "oc": "quan"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "pourquoi",
+    "translations": [
+      {
+        "oc": "perqué"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "quoi",
+    "translations": [
+      {
+        "oc": "qué"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "comment, quel",
+    "translations": [
+      {
+        "oc": "quin"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "combien",
+    "translations": [
+      {
+        "oc": "quant"
+      }
+    ],
+    "tag": "mots-otís"
+  },
+  {
+    "fr": "Bonjour / au revoir",
+    "translations": [
+      {
+        "oc": "Adishatz"
+      }
+    ],
+    "tag": "expressions-gers",
+    "note": "Prononciation indicative : Adichats"
+  },
+  {
+    "fr": "Madame, Monsieur",
+    "translations": [
+      {
+        "oc": "Madama, Mossur"
+      }
+    ],
+    "tag": "expressions-gers",
+    "note": "Prononciation indicative : Madamo, Moussu"
+  },
+  {
+    "fr": "Comment ça va aujourd’hui ?",
+    "translations": [
+      {
+        "oc": "Coma va uei ?"
+      }
+    ],
+    "tag": "expressions-gers",
+    "note": "Prononciation indicative : Coumo ba awei ?"
+  },
+  {
+    "fr": "Avez-vous bien dormi ?",
+    "translations": [
+      {
+        "oc": "Avètz plan dormit ?"
+      }
+    ],
+    "tag": "expressions-gers",
+    "note": "Prononciation indicative : Awèts pla droumit ?"
+  },
+  {
+    "fr": "Avez-vous besoin de quelque chose ?",
+    "translations": [
+      {
+        "oc": "Avètz besonh de quaucom ?"
+      }
+    ],
+    "tag": "expressions-gers",
+    "note": "Prononciation indicative : Awèts bézoun de quaucoumm ?"
+  },
+  {
+    "fr": "Avez-vous faim ?",
+    "translations": [
+      {
+        "oc": "Avètz talent ? / Avètz hami ?"
+      }
+    ],
+    "tag": "expressions-gers",
+    "note": "Prononciation indicative : Awèts talenn ? / Awèts hami ?"
+  },
+  {
+    "fr": "Bon appétit",
+    "translations": [
+      {
+        "oc": "Bon apetit · bona hami"
+      }
+    ],
+    "tag": "expressions-gers",
+    "note": "Prononciation indicative : Boun apétitt · Bouno hami"
+  },
+  {
+    "fr": "Voici vos médicaments",
+    "translations": [
+      {
+        "oc": "Aquí los vòstes remèdis"
+      }
+    ],
+    "tag": "expressions-gers",
+    "note": "Prononciation indicative : Aqui lous bostés rémédis"
+  },
+  {
+    "fr": "Où avez-vous mal ?",
+    "translations": [
+      {
+        "oc": "On avètz mau ?"
+      }
+    ],
+    "tag": "expressions-gers",
+    "note": "Prononciation indicative : Ount awèts maw ?"
+  },
+  {
+    "fr": "Demain, ça ira mieux !",
+    "translations": [
+      {
+        "oc": "Doman, qu’anguerà melhor !"
+      }
+    ],
+    "tag": "expressions-gers",
+    "note": "Prononciation indicative : Douma(n), qu’anguéra meyou !"
+  },
+  {
+    "fr": "Quel temps fait-il aujourd’hui ?",
+    "translations": [
+      {
+        "oc": "Quin temps hè uei ?"
+      }
+    ],
+    "tag": "expressions-gers",
+    "note": "Prononciation indicative : Quinn tennss hè awei ?"
+  },
+  {
+    "fr": "Il va faire chaud",
+    "translations": [
+      {
+        "oc": "Que va hèr calor"
+      }
+    ],
+    "tag": "expressions-gers",
+    "note": "Prononciation indicative : Qué ba hè calou"
+  },
+  {
+    "fr": "Il va pleuvoir",
+    "translations": [
+      {
+        "oc": "Que va plàver"
+      }
+    ],
+    "tag": "expressions-gers",
+    "note": "Prononciation indicative : Qué ba plawé"
+  },
+  {
+    "fr": "Comment vous appelez-vous ?",
+    "translations": [
+      {
+        "oc": "Coma vos aperatz ?"
+      }
+    ],
+    "tag": "expressions-gers",
+    "note": "Prononciation indicative : Coumo bous aperats ?"
+  },
+  {
+    "fr": "Vous me reconnaissez ?",
+    "translations": [
+      {
+        "oc": "Me remetètz ?"
+      }
+    ],
+    "tag": "expressions-gers",
+    "note": "Prononciation indicative : Me rémétèts ?"
+  },
+  {
+    "fr": "S’il vous plaît",
+    "translations": [
+      {
+        "oc": "Sens vos comandar"
+      }
+    ],
+    "tag": "expressions-gers",
+    "note": "Prononciation indicative : Sens bous coumanda"
+  },
+  {
+    "fr": "Merci (bien)",
+    "translations": [
+      {
+        "oc": "Plan mercés · mercés plan"
+      }
+    ],
+    "tag": "expressions-gers",
+    "note": "Prononciation indicative : Pla mercéss · Mer-ci-yo pla"
+  },
+  {
+    "fr": "À tout à l’heure",
+    "translations": [
+      {
+        "oc": "A totara"
+      }
+    ],
+    "tag": "expressions-gers",
+    "note": "Prononciation indicative : A toutaro"
+  },
+  {
+    "fr": "À demain",
+    "translations": [
+      {
+        "oc": "A doman"
+      }
+    ],
+    "tag": "expressions-gers",
+    "note": "Prononciation indicative : A douma(nn)"
+  },
+  {
+    "fr": "Bonne nuit",
+    "translations": [
+      {
+        "oc": "Bona nueit"
+      }
+    ],
+    "tag": "expressions-gers",
+    "note": "Prononciation indicative : Bouno nouèytt"
+  }
+]
